@@ -1,0 +1,238 @@
+.my_title_heading{
+    padding: 10px 15px !important;
+
+}
+
+.my_export_btn{
+    margin-left: 10px;
+    
+}
+
+.my_display_con{
+    display: inline-flex;
+    justify-content: end;
+}
+
+
+
+.MUSTER_ROLL_TABLE{
+    padding: 6px 1px !important;
+    vertical-align: middle !important;
+    text-align: center;
+    font-size: 10px;
+    min-width: 31px;
+    border-color: #f1f1f1 !important;
+  }
+  .padding_new_table  th {
+    padding: 6px 1px !important;
+
+
+  }
+
+  .DAYS_BACK{
+    BACKGROUND: #E6ECF0;
+    WIDTH: 30PX;
+  }
+
+  .date_muster p{
+    margin-bottom: 0px;
+  }
+  .left_section{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:48%;
+      font-size: 14px;
+  }
+  .spinner_css_12345666{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:39%;
+      font-size: 14px;
+  }
+
+.test_collapse{
+
+    animation: fadein 0.5s;
+      -moz-animation: fadein 0.5s;
+      -webkit-animation: fadein 0.5s;
+      -o-animation: fadein 0.5s;
+  }
+
+  .heading_opeartionn {
+    background-color: #e8f1fd;
+    width: 100%;
+}
+html.rui-night-mode .MUSTER_ROLL_TABLE{
+  border-color: #3c424c !important;
+}
+html.rui-night-mode .heading_opeartionn {
+  background-color: #292f38 !important;
+}
+
+html.rui-night-mode .whitBoxLaeve {
+  background-color: #292f38 !important;
+  border: 1px solid #454545 !important;
+}
+.paddingBothSiseLeave {
+    padding: 10px 10px;
+    padding-right: 24px;
+
+}
+
+.my_new_back_bg{
+    background-color: #fff ;
+    padding: 12px 12px;
+    border-radius: 5px;
+}
+// .mycalendar{
+//     overflow-x: scroll ;
+//     overflow-y: hidden;
+//   }
+
+
+//   .mycalendar::-webkit-scrollbar
+//   {
+//     width: 0px;
+//     background-color: #ffffff !important;
+//   }
+
+//   .mycalendar::-webkit-scrollbar-thumb
+//   {
+//     border-radius: 1px;
+//     background-color:#ffffff !important;
+//   }
+//   .mycalendar::-webkit-scrollbar-track
+//   {
+//     border-radius: 1px;
+//     background-color: #ffffff !important;
+//   }
+
+//   .mycalendar::-webkit-scrollbar
+//   {
+//     width: 0px;
+//     background-color: #ffffff !important;
+//   }
+
+//   .mycalendar::-webkit-scrollbar-thumb
+//   {
+//     border-radius: 1px;
+//    background-color:#ffffff !important;
+//   }
+
+  .scroll_1{
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  .scroll_1::-webkit-scrollbar{
+        height: 5px;
+        width: 3px;
+        background: #fff;
+    }
+    .scroll_1::-webkit-scrollbar-thumb:horizontal{
+        background: #a4a6a8;
+        border-radius: 10px;
+    }
+    .padding_data{
+      padding: 10px 16px !important;
+    }
+
+    .show_in_line{
+      display: inline-flex;
+        width: 100%;
+        flex-wrap: unset;
+        justify-content: space-between;
+    }
+  
+    .heading_top_newww{
+      font-size: 12px;
+    }
+    .current_mpnth{
+      margin-bottom: 6px;
+      margin-top: 20px;
+    }
+    .heading_bottom{
+      font-size: 22px;
+        font-weight: 500;
+        margin-top: -8px;
+    }
+  
+    .line_attendance_summery{
+      border: 1px solid #e6ecf0;
+        height: 40px;
+        align-self: center;
+    }
+    html.rui-night-mode .line_attendance_summery{
+      border: 1px solid #a9b1bb;
+        height: 40px;
+        align-self: center;
+    }
+  
+    .show_attenedance_model{
+      max-width: 1350px;
+      margin: 5px;
+    }
+
+    .mycalendar{
+      overflow-x: hidden ;
+      overflow-y: scroll;
+    }
+    html.rui-night-mode .heading_opeartion {
+      background-color: #292f38 !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar
+    {
+      width: 0px;
+      background-color: #ffffff !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar-thumb
+    {
+      border-radius: 1px;
+      background-color:#ffffff !important;
+    }
+    .mycalendar::-webkit-scrollbar-track
+    {
+      border-radius: 1px;
+      background-color: #ffffff !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar
+    {
+      width: 0px;
+      background-color: #ffffff !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar-thumb
+    {
+      border-radius: 1px;
+     background-color:#ffffff !important;
+    }
+
+    html.rui-night-mode body .mycalendar::-webkit-scrollbar-track
+    {
+      // -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+      border-radius: 1px;
+      background-color: #626973 !important;
+    }
+    html.rui-night-mode body .mycalendar::-webkit-scrollbar
+    {
+      width: 1px;
+      background-color: #626973 !important;
+    }
+    html.rui-night-mode body .mycalendar::-webkit-scrollbar-thumb
+    {
+      // #3c424c
+      border-radius: 1px;
+      // -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+      background-color:#626973 !important;
+    }
+
+
+    html.rui-night-mode body .scroll_1::-webkit-scrollbar{
+      background: transparent !important;
+    }

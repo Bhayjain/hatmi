@@ -1,0 +1,334 @@
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+// body{
+//   font-family: 'Poppins', sans-serif !important;
+
+// }
+// h1, h2, h3 , h4, h5, h6{
+//   font-family: 'Poppins', sans-serif !important;
+// }
+
+
+.heading_opeartion{
+  background-color: #e8f1fd;
+  width: 100%;
+}
+html.rui-night-mode .heading_opeartion {
+  background-color: #292f38 !important;
+}
+.paddingBothSiseLeave{
+  padding: 10px 10px;
+    padding-right: 24px;
+}
+.whitBoxLaeve{
+  background-color: #fff;
+  border: 1px solid #ebebeb;
+  border-radius: 5px;
+}
+
+html.rui-night-mode .whitBoxLaeve{
+  background-color: #292f38!important;
+  border: 1px solid #454545!important;
+}
+.btn{
+  font-weight: 500;
+}
+.table thead th {
+    font-weight: 500;
+  }
+  .nav-pills .nav-link{
+    font-weight: 500;
+  }
+  .title_headinggg{
+      padding: 10px 15px !important;
+  }
+  .title_headinggg h1{
+      margin-top: 0px !important;
+      margin-bottom: 0px !important;
+  }
+  
+  .spinner_css_12345666{
+      justify-content: center;
+        position: absolute;
+        width: 50px;
+        height:50px;
+        margin-left:39%;
+        font-size: 14px;
+    }
+  .left_section{
+      justify-content: center;
+        position: absolute;
+        width: 50px;
+        height:50px;
+        margin-left:48%;
+        font-size: 14px;
+    }
+  
+    .mycalendar{
+      overflow-y: scroll;
+      overflow-x: hidden;
+    }
+   
+    .mycalendar::-webkit-scrollbar-track
+     {
+       // -webkit-box-shadow: inset 0 0 0px rgba(0,0,0,0.3);
+       border-radius: 1px;
+       background-color: #ffffff !important;
+     }
+   
+     .mycalendar::-webkit-scrollbar
+     {
+       width: 1px;
+       background-color: #ffffff !important;
+     }
+   
+     .mycalendar::-webkit-scrollbar-thumb
+     {
+       border-radius: 1px;
+       background-color:#ffffff !important;
+     }
+     html.rui-night-mode body .mycalendar::-webkit-scrollbar-track
+     {
+       border-radius: 1px;
+       background-color: #626973 !important;
+     }
+     html.rui-night-mode body .mycalendar::-webkit-scrollbar
+     {
+       width: 1px;
+       background-color: #626973 !important;
+     }
+     html.rui-night-mode body .mycalendar::-webkit-scrollbar-thumb
+     {
+       border-radius: 1px;
+       background-color:#626973 !important;
+     }
+     .height_sales {
+      border-right: 1px solid #e6ecf0;
+      }
+      html.rui-night-mode body .height_sales{
+          border-right: 1px solid #626973;
+      }
+  
+    .test_collapse{
+  
+      animation: fadein 0.5s;
+        -moz-animation: fadein 0.5s;
+        -webkit-animation: fadein 0.5s;
+        -o-animation: fadein 0.5s;
+    }
+    @keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity:1;
+        }
+    }
+    @-moz-keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity:1;
+        }
+    }
+    @-webkit-keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity:1;
+        }
+    }
+    @-o-keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+  
+    .padding_data{
+        padding: 10px 25px !important;
+        vertical-align: middle !important;
+    }
+    .approve_decline{
+        text-transform: capitalize;
+    }
+    .show_data_of_emp{
+      padding: 14px 14px;
+    }
+  
+    .heading_top_newww{
+      font-size: 12px;
+    }
+    .heading_bottom{
+      font-size: 22px;
+        font-weight: 500;
+        margin-top: -8px;
+    }
+    .requested{
+        margin-top: 20px;
+    }
+    .show_inline_new{
+      display: inline-flex;
+      width: 100%;
+      flex-wrap: wrap;
+    }
+    .calendar_box{
+      margin-right: 16px;
+      border: 1px solid #d5d5d5;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      margin-top: -17px;
+      cursor: pointer;
+    }
+    .padd_ing{
+        padding: 5px 5px;
+      //   text-align: center;
+        margin-bottom: 0px;
+    }
+    .check_lable{
+      text-align: end;
+      margin-right: -3px;
+    }
+    .check_lable .custom-checkbox .custom-control-label::before{
+      border-radius: 50%;
+    }
+    .date_new{
+      font-size: 16px;
+      margin-top: 8px;
+      font-weight: 500;
+      margin-bottom: 8px !important;
+    }
+    .heading_line{
+      margin-top: -1px !important;
+      margin-bottom: 5px !important;
+    }
+    .unpadd_ing{
+      padding: 8px 5px;
+      margin-bottom: -2px;
+      cursor: pointer;
+      margin-top: -5px;
+      padding-bottom: 10px;
+      background: #ef5164;
+      border-color: #ef5164;
+      color: #fff;
+      border-top-right-radius: 0px;
+      border-top-left-radius: 0px;
+      border-radius: 5px;
+      border-top-right-radius: 0px;
+      border-top-left-radius: 0px;
+    }
+  
+    .selected_card{
+      background: #2fc787;
+      border-color: #2fc787;
+      color: #fff;
+      border: 1px solid #2fc787;
+    }
+    .selected_cardPaid_leave{
+      background: #2fc787;
+      border-color: #2fc787;
+      color: #fff;
+      border-top-right-radius: 0px;
+      border-top-left-radius: 0px;
+      border-radius: 5px;
+      border-top-right-radius: 0px;
+      border-top-left-radius: 0px;
+  
+    }
+  
+    .approve_or_decline{
+      text-transform: capitalize;
+    }
+    .leave_reason_css{
+      max-width: 75px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      cursor: pointer;
+      margin-bottom: -6px !important;
+      margin-top: 14px;
+    }
+  
+    .nav_home_icon {
+      position: relative;
+    }
+    .nav_home_icon .icon_text_home {
+      visibility: hidden;
+      display: grid;
+      background-color: #272727;
+      color: #fff;
+      text-align: start;
+      border-radius: 6px;
+      padding: 5px 11px;
+    
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1000;
+      font-size: 11px;
+      margin-top: 5px;
+      width: fit-content;
+    }
+    
+    .nav_home_icon:hover .icon_text_home {
+      visibility: visible;
+    }
+    
+    .nav_home_icon .icon_text_home::after {
+      content: "";
+      position: absolute;
+      bottom: 100%;
+      left: 45%;
+      margin-left: -5px;
+      border-width: 5px;
+      border-style: solid;
+      border-color: transparent transparent black transparent;
+    }
+    html.rui-night-mode .calendar_box {
+      border: 1px solid #3c424c;
+  }
+  .dis_pay_none{
+    display: none;
+  }
+  
+  .leaves_tab{
+    width: 100%;
+  }
+  .leaves_tab li{
+    width: 33.33%;
+  }
+  .leaves_tab li a{
+   justify-content: center;
+  }
+  
+  .leaves_tab .requested_leave.active {
+  color: #fff !important;
+  background-color: #fdbf21 !important;
+  }
+  
+  .leaves_tab .disapprovedLeave.active {
+  color: #fff !important;
+  background-color: #dc3545 !important;
+  }
+  .leaves_tab .previous_leave.active {
+  color: #fff !important;
+  background-color: #2fc787 !important;
+  }
+  
+  .leaves_tab + .tab-content {
+    margin-top: 0px !important;
+  }
+  
+  .name_new{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  
+  @media (min-width:601px) and (max-width: 768px) {
+    .show_data_of_emp{
+      padding-left: 37px !important;
+        }
+  }

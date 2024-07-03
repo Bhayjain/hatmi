@@ -1,0 +1,914 @@
+
+  .btn{
+    font-weight: 500 !important;
+  }
+  .shift_model_show .table td,  .shift_model_show .table th{
+    padding: 10px 10px !important;
+    vertical-align: middle;
+    font-size: 14px;
+  }
+  .shiftDataUL{
+    width: 100%;
+  }
+  .shiftDataUL li{
+    width: 33.33%;
+  }
+  .shiftDataUL li a{
+    justify-content: center;
+  }
+  .shiftDataUL .nav-link.active {
+    color: #fff;
+    background-color: #1D525B;
+  }
+  .shiftDataUL + .tab-content{
+    margin-top: -12px !important;
+  }
+  .propertyName h1{
+    font-weight: 600;
+  }
+  .manager_select_new .form-control{
+    background-color: #fef9fa !important;
+    border-color: #fac6cc;
+  }
+  .shitModelButton{
+      display: inline-flex;
+      width: 100%;
+    // justify-content: center;
+  }
+  .shitModelButton button{
+    padding: 6px 12px !important;
+    margin-right: 10px !important;
+    text-transform: capitalize;
+  }
+
+.is_not_valid div{
+    background-color: #fef9fa;
+    border-color: #fac6cc;
+  }
+  .borderBottomNew{
+    border-bottom: 1px solid #e6ecf0;
+  }
+  html.rui-night-mode .borderBottomNew{
+    border-bottom: 1px solid #3c424c !important;
+  }
+
+  .shiftModeel{
+      width: 750px;
+      max-width: 750px;
+  }
+  .show_sub_heading_staff{
+      font-weight: 500;
+      margin-bottom: 0px;
+      font-size: 16px;
+  }
+  .count_user{
+      padding: 2px 10px;
+      background: #dadada;
+      margin-left: 8px;
+      border-radius: 6px;
+  }
+  .shfit_table{
+      margin-top: -6px;
+  }
+  .payroll_dashboard{
+      padding: 10px 15px !important;
+  }
+  .payroll_dashboard h1{
+      margin-top: 0px !important;
+      margin-bottom: 0px !important;
+  }
+  .heading_opeartion{
+      background-color: #e8f1fd;
+      width: 100%;
+  }
+  html.rui-night-mode .heading_opeartion {
+      background-color: #292f38 !important;
+    }
+  
+  .spinner_css_12345666{
+      justify-content: center;
+        position: absolute;
+        width: 50px;
+        height:50px;
+        margin-left:39%;
+        font-size: 14px;
+    }
+
+    html.rui-night-mode .contact_sort div {
+      background-color: #292f38;
+      border-color: #3c424c;
+      color: #a0aebb!important;
+  }
+  .mycalendar{
+      overflow-x: hidden ;
+      overflow-y: scroll;
+    }
+  
+  
+    .mycalendar::-webkit-scrollbar
+    {
+      width: 1px;
+      background-color: #ffffff !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar-thumb
+    {
+      border-radius: 1px;
+      background-color:#ffffff !important;
+    }
+    .mycalendar::-webkit-scrollbar-track
+    {
+      border-radius: 1px;
+      background-color: #ffffff !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar
+    {
+      width: 1px;
+      background-color: #ffffff !important;
+    }
+  
+    .mycalendar::-webkit-scrollbar-thumb
+    {
+      border-radius: 1px;
+     background-color:#ffffff !important;
+    }
+    .test_collapse{
+  
+      animation: fadein 0.5s;
+        -moz-animation: fadein 0.5s;
+        -webkit-animation: fadein 0.5s;
+        -o-animation: fadein 0.5s;
+    }
+    @keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity:1;
+        }
+    }
+    @-moz-keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity:1;
+        }
+    }
+    @-webkit-keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity:1;
+        }
+    }
+    @-o-keyframes fadein {
+        from {
+            opacity:0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+  
+    html.rui-night-mode body .mycalendar::-webkit-scrollbar-track
+  {
+    // -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 1px;
+    background-color: #626973 !important;
+  }
+  html.rui-night-mode body .mycalendar::-webkit-scrollbar
+  {
+    width: 1px;
+    background-color: #626973 !important;
+  }
+  html.rui-night-mode body .mycalendar::-webkit-scrollbar-thumb
+  {
+    // #3c424c
+    border-radius: 1px;
+    // -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color:#626973 !important;
+  }
+  .shiftPadding{
+    padding: 10px 7px;
+  }
+  .attendance_data{
+    margin-top: 4px;
+    font-weight: 500;
+    margin-bottom: -3px !important;
+  }
+  .date_for_muster_roll{
+    text-align: end;
+  }
+  .date_for_muster_roll .react-datepicker-popper{
+    top: -3px !important;
+    left: -30px !important;
+  }
+  .salary_sum_date{
+    text-align: end;
+  }
+  .salary_sum_date .react-datepicker .react-datepicker__navigation{
+    top: 16px !important;
+  }
+  .salary_sum_date .react-datepicker-popper{
+    top: -9px !important;
+      left: -28px !important;
+  }
+  .salary_sum_date .react-datepicker{
+    padding: 0px 18px 5px 18px !important;
+  }
+  .master_roll_box{
+    background-color: #fff;
+    padding:12px 16px;
+    border: 1px solid #e6ecf0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    overflow-x: hidden;
+    margin-bottom: 10px;
+    margin-top: 9px;
+    border-radius: 10px;
+  }
+  .overa_all_bal{
+    font-weight: 500;
+    margin-top: 7px;
+  }
+  
+  html.rui-night-mode .master_roll_box {
+  background-color: #292f38!important;
+  border: 1px solid #454545!important;
+  }
+  .padd_ing_table{
+    padding: 9px 16px !important;
+    line-height: 16px;
+    vertical-align: middle !important;
+  }
+  .width_name{
+    width: 163px;
+    min-width:163px
+  }
+  .borderlessNew{
+    margin-bottom: 0px;
+  }
+  
+  
+  .present{
+    width: 85px;
+    min-width:85px
+  }
+  .absent{
+    width: 80px;
+    min-width:80px
+  }
+  .half_day{
+    width: 88px;
+    min-width:88px
+  }
+  .paid_leave{
+    width: 104px;
+    min-width:104px
+  }
+  .unmarked{
+    width: 104px;
+    min-width:104px
+  }
+  .overtime{
+    width: 95px;
+    min-width:95px
+  }
+  .fine{
+    width: 85px;
+    min-width:85px
+  }
+  .total_attendace{
+    width: 148px;
+    min-width:148px
+  }
+  
+  
+  
+  .display_new{
+    display: inline-flex;
+  }
+  .show_icon_dash{
+    margin-right: 6px;
+      margin-left: -25px;
+      margin-top: -2px;
+  }
+  .dash_un_n_down{
+    stroke-width: 2px;
+      min-width: 22px;
+      height: 22px;
+  }
+  
+  .attendance_summery_box{
+    background-color: #fff;
+    padding:20px 20px;
+    border: 1px solid #e6ecf0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    overflow-x: hidden;
+    margin-bottom: 10px;
+    margin-top: 9px;
+    border-radius: 5px;
+  }
+  html.rui-night-mode .attendance_summery_box {
+    background-color: #292f38!important;
+    border: 1px solid #454545!important;
+    }
+  .staff_table{
+    background-color: #fff;
+    padding:20px 20px;
+    border: 1px solid #e6ecf0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    // overflow-x: hidden;
+    margin-bottom: 10px;
+    margin-top: 9px;
+    border-radius: 5px;
+  }
+  html.rui-night-mode .staff_table {
+    background-color: #292f38!important;
+    border: 1px solid #454545!important;
+    }
+  .salary_table{
+    padding: 6px 25px !important;
+    vertical-align: middle !important;
+  }
+  .sumbit_new{
+    text-transform: capitalize;
+    padding: 6px 10px;
+  }
+  .btn_allow{
+    width: 101px;
+    justify-content: center;
+  }
+  .date_muster p{
+    margin-bottom: 0px;
+  }
+  .MUSTER_ROLL_TABLE{
+    padding: 6px 6px !important;
+    vertical-align: middle !important;
+    text-align: center;
+  }
+  
+  // .scroll_1{
+  //   overflow-x: scroll;
+  //   overflow-y: hidden;
+  // }
+  // .scroll_1::-webkit-scrollbar{
+  //       height: 0px;
+  //       width: 0px;
+  //       background: #fff;
+  //   }
+  //   .scroll_1::-webkit-scrollbar-thumb:horizontal{
+  //       background: #a4a6a8;
+  //       border-radius: 10px;
+  //   }
+  //   html.rui-night-mode .scroll_1::-webkit-scrollbar {
+  //     height: 5px;
+  //     width: 3px;
+  //     background: #292f38 !important;
+  // }
+  .DAYS_BACK{
+    BACKGROUND: #E6ECF0;
+    WIDTH: 30PX;
+  }
+  .DAYS_BACK div{
+    font-weight: 500;
+  }
+  html.rui-night-mode .DAYS_BACK {
+    BACKGROUND: #323942;
+    WIDTH: 30PX;
+  }
+  .heading_top_newww{
+    font-size: 12px;
+  }
+  .heading_bottom{
+    font-size: 22px;
+      font-weight: 500;
+      margin-top: -8px;
+  }
+  .line_attendance_summery{
+    border: 1px solid #e6ecf0;
+      height: 40px;
+      align-self: center;
+  }
+  html.rui-night-mode .line_attendance_summery{
+    border: 1px solid #a9b1bb;
+      height: 40px;
+      align-self: center;
+  }
+  .show_in_line{
+    display: inline-flex;
+      width: 100%;
+      flex-wrap: unset;
+      justify-content: space-between;
+  }
+  
+  
+  .staff_name p{
+      margin-bottom: -4px;
+      font-size: 14px;
+      font-weight: 500;
+      display: inline-flex
+  }
+  .EmployeeOnlineOffiline div{
+    margin-top: -2px !important
+  }
+  .in_out p{
+      margin-bottom: 0px;
+  
+  }
+  .in_time{
+      color: #2fc787;
+      font-style: italic;
+      display: inline-flex;
+      width: 100%;
+      font-weight: 500;
+  }
+  .out_time{
+      color: #A73121;
+      font-style: italic;
+      display: inline-flex;
+      width: 100%;
+      font-weight: 500;
+  }
+  .image_size{
+    width: 45px;
+      height: 45px;
+      // border: 1px solid #e6ecf0;
+      border-radius: 3px;
+      // padding: 6px 6px;
+      // margin-top: 4px;
+  }
+  
+  .paddin_left_new{
+    //   padding-left: 0px;
+  }
+  .present_module{
+      padding: 7px 8px;
+      text-transform: capitalize;
+      font-size: 10px;
+      width: 120px;
+      white-space: nowrap;
+      margin-right: 10px;
+  }
+  
+  .span_smalll{
+      padding: 0px 4px;
+      border-radius: 3px;
+      margin-right: 7px;
+      font-weight: bold;
+  }
+  .alignSelf_new{
+      align-self: center;
+  }
+  .not_selected{
+      color: #2e2e2e;
+      border-color: #e6ecf0;
+  }
+  .not_span_select{
+      color: #fff;
+      background: #6e6e6e;
+  }
+  .present_selected{
+      border-color: #2fc787;
+      background: #2fc787;
+      color: #fff;
+  }
+  .present_selected:hover{
+      color: #fff;
+  }
+  .present_span_selected{
+      color: #2fc787;
+      background-color: #fff;
+      background: #fff;
+  }
+  
+      .half_day_selected{
+          border-color: #fdbf21;
+          background: #fdbf21;
+          color: #fff;
+      }
+      .half_day_selected:hover{
+          color: #fff;
+      }
+      .half_day_span_selected{
+          color: #fdbf21;
+          background-color: #fff;
+          background: #fff;
+      }
+      .absent_selected{
+          border-color: #ef5164;
+          background: #ef5164;
+          color: #fff;
+      }
+      .absent_selected:hover{
+      color: #fff;
+      }
+      .absent_span_selected{
+          color: #ef5164;
+          background-color: #fff;
+          background: #fff;
+      }
+      .paid_leave_selected{
+          border-color: #007bff;
+          background: #007bff;
+          color: #fff;
+      }
+      .paid_leave_selected:hover{
+      color: #fff;
+      }
+      .paid_leave_span_selected{
+          color: #007bff;
+          background-color: #fff;
+          background: #fff;
+      }
+      .unpaid_leave_selected{
+          border-color: #176B87;
+          background: #176B87;
+          color: #fff;
+      }
+      .unpaid_leave_selected:hover{
+      color: #fff;
+      }
+      .unpaid_leave_span_selected{
+          color: #176B87;
+          background-color: #fff;
+          background: #fff;
+      }
+      .sick_leave_selected{
+          border-color: #9A3B3B;
+          background: #9A3B3B;
+          color: #fff;
+      }
+      .sick_leave_selected:hover{
+      color: #fff;
+      }
+      .sick_leave_span_selected{
+          color: #9A3B3B;
+          background-color: #fff;
+          background: #fff;
+      }
+  .not_marked{
+      font-size: 10px !important;
+      color: red;
+      margin-top: 2px;
+      margin-bottom: 5px !important;
+      font-style: italic;
+      font-weight: 500;
+  }
+  
+  html.rui-night-mode .image_size {
+      border: 1px solid #454545;
+  }
+  html.rui-night-mode .not_selected {
+      color: #a9b1bb;
+      border-color: #454545;
+  }
+  html.rui-night-mode .not_span_select {
+      color: #414040;
+      background: #a9b1bb;
+  }
+  html.rui-night-mode .count_user {
+      background: #454545;
+  }
+  .mark_half_day{
+      text-transform: capitalize;
+      padding: 6px 12px;
+      margin-right: 10px;
+      font-size: 10px !important;
+      width: 106px;
+      justify-content: center;
+  }
+  .mark_laeve_day{
+      text-transform: capitalize;
+      padding: 6px 12px;
+      margin-right: 10px;
+      font-size: 10px !important;
+      width: 106px;
+      justify-content: center;
+  }
+  .mark_laeve_day:hover{
+    color: #fff;
+  }
+  .mark_half_day:hover{
+    color: #fff;
+  }
+  .mark_sick_day:hover{
+    color: #fff;
+  }
+  .mark_sick_day{
+      text-transform: capitalize;
+      padding: 6px 12px;
+      margin-right: 10px;
+      font-size: 10px !important;
+      width: 106px;
+      justify-content: center;
+      height: max-content;
+  }
+  .ipad_inline_button{
+      display: inline-flex;
+      white-space: nowrap;
+  }
+  @media only screen and (min-resolution: 1.26dppx) and (max-resolution: 1.5dppx) {
+    .ipad_inline{
+      display: inline-flex;
+  }
+  .staff_table{
+      overflow-x: scroll;
+  }
+  .mark_sick_day, .mark_laeve_day ,.mark_half_day{
+    padding: 7px 8px;
+  text-transform: capitalize;
+  font-size: 10px;
+  width: 120px;
+  white-space: nowrap;
+  margin-right: 10px;
+  justify-content: center;
+  }
+  .present_module {
+    font-size: 8px !important;
+    width: 100px !important;
+    margin-right: 10px !important;
+  }
+ 
+  .displayGridNew .react-datepicker__input-container .form-control {
+    min-height: 30px !important;
+    width: 90px !important;
+    height: 26px !important;
+  }
+  
+  .mark_sick_day, .mark_laeve_day, .mark_half_day {
+    font-size: 10px !important;
+    width: 90px;
+  }
+  .scroll_1{
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  .scroll_1::-webkit-scrollbar{
+        height: 0px;
+        width: 0px;
+        background: #fff;
+    }
+    .scroll_1::-webkit-scrollbar-thumb:horizontal{
+        background: #a4a6a8;
+        border-radius: 10px;
+    }
+    html.rui-night-mode .scroll_1::-webkit-scrollbar {
+      height: 5px;
+      width: 3px;
+      background: #292f38 !important;
+  }
+  }
+  
+  @media (min-width:601px) and (max-width:820px){
+      .mar3TopNew{
+          margin-top: 10px !important;
+      }
+      .displayGridNew .react-datepicker__input-container .form-control{
+          width: 120px !important;
+      }
+      .ipad_inline_button{
+          width: 100% !important;
+          justify-content: flex-end !important;
+          margin-left: -10px !important;
+      }
+      .ipad_inline{
+          display: inline-flex;
+      }
+      .staff_table{
+          overflow-x: scroll;
+      }
+      .mark_sick_day, .mark_laeve_day ,.mark_half_day{
+        padding: 7px 8px;
+      text-transform: capitalize;
+      font-size: 10px;
+      width: 120px;
+      white-space: nowrap;
+      margin-right: 10px;
+      justify-content: center;
+      }
+  }
+  
+  @media (max-width:1024px) {
+    .padding_left_btn{
+      margin-left: 0px !important;
+    }
+  }
+  @media (min-width:1024px) and (max-width:1367px){
+    .present_module{
+        font-size: 8px;
+    width: 100px;
+    }
+    .mar3TopNew{
+        padding-left: 0px !important;
+    }
+    .mark_half_day , .mark_laeve_day, .mark_sick_day{
+        font-size: 8px !important;
+    width: 90px !important;
+    }
+    .displayGridNew .react-datepicker__input-container .form-control {
+        width: 90px !important;
+    }
+
+  }
+  .show_erroe_mesage{
+    color: red;
+    margin-bottom: -20px !important;
+      text-align: center;
+      margin-top: 12px;
+  }
+  
+  .half_day_reason{
+    font-size: 12px;
+    margin-top: 2px;
+    font-style: italic;
+    color: red;
+  }
+  .padding_left_btn{
+    // padding-left: 0px;
+    // margin-left: -30px;
+  }
+  .padding_left_btn_btn{
+    // padding-left: 0px;
+    // margin-left: -30px;
+  }
+  .foms_date{
+    display: inline-flex;
+      width: 100%;
+      justify-content: flex-end;
+  }
+  .input_search_name{
+    width: 250px;
+      margin-right: 10px;
+  }
+  .attendance_calendar .react-datepicker-popper{
+    left: -145px !important;
+  }
+  .attendance_calendar .react-datepicker__triangle{
+    left: 190px !important;
+  }
+  .start_mark_new{
+    color: red;
+  }
+  .label_bottom{
+    margin-bottom: 2px;
+  }
+  .allDataOfAttendance{
+    display: inline-flex;
+      width: 100%;
+      justify-content: space-between;
+  }
+  .halfDayResonText{
+    width: 150px;
+  }
+  .displayInlineNeww{
+    width: 100%;
+    display: inline-flex;
+  }
+  .showLocationUI{
+    width: 100px;
+      margin-right: 15px;
+      font-size: 12px;
+      color: #0766AD;
+      font-weight: 500;
+  }
+  
+  .puchInTimeNew{
+    font-size: 10px;
+      margin-bottom: 0px;
+      font-style: italic;
+  }
+  .displayGridNew{
+    display: grid;
+      margin-right: 10px;
+  }
+  
+  .displayGridNew .react-datepicker__input-container .form-control{
+    min-height: 30px !important;
+    width: 106px ;
+    height: 26px !important;
+  }
+  .mar3TopNew{
+      margin-top: -24px;
+  }
+  
+  .imvalidPunch{
+    font-size: 90%;
+      color: red;
+      font-style: italic;
+      font-weight: 500;
+      margin-bottom: -20px;
+  }
+  .halfDayRes{
+    background-color: #fdbf21;
+      color: #fff;
+  }
+  .absent_reson{
+    background-color: #ef5164;
+      color: #fff;
+  }
+  .locationResonNew{
+    background-color: #0766AD;
+      color: #fff;
+  }
+  .requestedLeaveNew{
+    background-color: #7E30E1;
+      color: #fff;
+  }
+  .holidayRequestttt{
+    background-color: #3559E0;
+      color: #fff;
+  }
+  
+
+
+//   Shift schedule
+
+.roleTabs{
+    width: 100%;
+    justify-content: space-between;
+    display: inline-flex;
+    overflow: hidden;
+    flex-wrap: nowrap !important;
+    list-style: none;
+    padding-left: 0px;
+    padding-left: 0px;
+    white-space: nowrap;
+    margin-bottom: 0px;
+    align-self: center;
+}
+
+.roleTabs .nav-link.active{
+    background-color: transparent !important;
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+}
+.roleTabs .nav-link{
+    // background-color: transparent !important;
+    color: #a4a6a8;
+}
+.roleTabs li{
+    margin-right: 20px;
+}
+.roleTabs a{
+    // font-weight: 500;
+    font-size: 14px;
+    padding: 0 15px 0px !important 
+}
+.showBtnNew{
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+html.rui-night-mode .my_button_data{
+  color: #a0aebb;
+  background-color: #292f38;
+  border-color: #3c424c;
+}
+.my_button_data{
+  justify-content: center;
+  width: 38px;
+    height: 35px;
+    color: #6c757d;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #e6ecf0;
+    border-radius: 100%;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+html.rui-night-mode .mybuttoooon2{
+  color: #a0aebb;
+  background-color: #292f38;
+  border-color: #3c424c;
+}
+
+.mybuttoooon2{
+  display: inline-flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 38px;
+  height: 36px;
+  margin-top: 0px;
+  margin-right: 5px;
+  color: #6c757d;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #e6ecf0;
+  border-radius: 100%;
+  -webkit-transition: background-color .15s ease-in-out, color .15s ease-in-out;
+  -o-transition: background-color .15s ease-in-out, color .15s ease-in-out;
+  transition: background-color .15s ease-in-out, color .15s ease-in-out;
+}

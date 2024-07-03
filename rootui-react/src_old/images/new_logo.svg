@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180.2 1274.09">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .13;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: .03em;
+      }
+
+      .cls-4 {
+        font-size: 189.99px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: Nunito-Bold, Nunito;
+      }
+
+      .cls-6 {
+        letter-spacing: .03em;
+      }
+
+      .cls-5 {
+        font-size: 201.78px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="M757.95,299.75l-25.86-14.14h0c39.31-24.59,62.96-67.89,62.4-114.25l-.02-1.36C807.13-24.25,684.67,1.08,684.67,1.08l-209.07,20.91c3.36-.28,4.3,1.71,4.3,5.35v116.63l-32.05-24.58-32.05,33.72V36.81c0-4.35,3.2-8.04,7.5-8.65,0,0-.02-.02,0-.06-34.73,8.01-59.04,24-68.26,46.89-7.97,19.79-3.89,252.36-2.91,355.45,.49,50.87-.72,70.75-.97,91.39-.89,71.17,37.91,72.45,37.91,72.45l343.01,48.69c55.86-4.22,63.3-71.75,63.3-71.75v-208.34c0-26.3-14.35-50.51-37.44-63.13Z"/>
+    <path class="cls-2" d="M421.9,29.57c-4.31,.61-7.5,4.3-7.5,8.65v116.31l32.05-33.72,32.05,24.58V28.75c0-3.64-.94-5.63-4.3-5.35l-44.31,4.43c-2.72,.51-5.37,1.08-7.98,1.68-.02,.04,0,.06,0,.06Z"/>
+    <path class="cls-1" d="M363.75,577.5l-73.93,33.11s-35.87,30.97,36.97,32.38c72.83,1.41,405.3,0,405.3,0l-368.34-65.48Z"/>
+    <polygon class="cls-2" points="640.07 540.61 625.56 428.93 716.34 498.42 665.86 499.15 640.07 540.61"/>
+  </g>
+  <text class="cls-4" transform="translate(0 998.72)"><tspan class="cls-6" x="0" y="0">BOOK </tspan><tspan class="cls-9" x="629.24" y="0">Y</tspan><tspan class="cls-3" x="744.94" y="0">OUR</tspan></text>
+  <text class="cls-5" transform="translate(0 1218.6)"><tspan x="0" y="0">INSU</tspan><tspan class="cls-7" x="484.07" y="0">R</tspan><tspan class="cls-8" x="622.69" y="0">ANCE</tspan></text>
+</svg>

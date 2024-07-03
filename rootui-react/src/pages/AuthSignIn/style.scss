@@ -1,0 +1,145 @@
+@import "../../../../common-assets/css/variables";
+@import "../../../../common-assets/css/rootui-parts/sign";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600&display=swap');
+:root{
+    --projectColo:#448DF2
+}
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.rui-sign-form {
+    .svg-inline--fa.rui-icon {
+        width: 1em;
+        min-width: 1em;
+        height: 1em;
+    }
+}
+
+.rui-router-transition-exit-active > .rui-sign {
+    min-height: calc(100vh - 20px);
+    padding-top: 20px;
+}
+.width100{
+    width:100%
+}
+.bg-image{
+    width: 50%;
+}
+.myLogoDiv{
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.subText{
+    color: #fff;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -12px;
+    text-align: center;
+}
+.loginCard{
+    padding: 0px !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+.headingLogo{
+    font-weight: 500;
+    font-size: 26px;
+}
+.paraLogo{
+    font-size: 16px;
+}
+.achorColo{
+    color:var(--projectColo) !important;
+    font-size: 14px !important;
+}
+.labelReact{
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+.loginText{
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: var(--projectColo);
+}
+
+.form-control {
+    min-height: 40px !important;
+    background-color: transparent !important;
+}
+
+.test_collapse{
+
+    animation: fadein 1.00s;
+      -moz-animation: fadein 1.00s;
+      -webkit-animation: fadein 1.00s;
+      -o-animation: fadein 1.00s;
+  }
+  @keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-moz-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-webkit-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-o-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity: 1;
+      }
+  }
+  .passwordTrueMess{
+    font-size: 85%;
+    color: #989FAD;
+    margin-top: 6px;
+    font-weight: 400;
+  }
+
+  .password-input-container{
+    position: relative;
+  }
+  .password-toggle-icon{
+    position: absolute;
+    right: 0;
+    padding-right: 14px;
+    top: 8px;
+    bottom: 0;
+  }
+  .password-toggle-icon svg{
+    width: 20px !important;
+    min-width: 20px !important;
+    height: 20px !important;
+    stroke-width: 2px !important;
+  }
+
+  .invalidCredital{
+      text-align: center;
+    color: red;
+    font-weight: 500;
+  }
+
+  .form-control.is-invalid{
+    background-color: #fef9fa !important;
+    border-color: #fac6cc;
+  }

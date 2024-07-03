@@ -1,0 +1,106 @@
+.my_title_heading{
+    padding: 10px 15px !important;
+
+}
+
+.my_export_btn{
+    margin-left: 10px;
+    
+}
+
+.my_display_con{
+    display: inline-flex;
+    justify-content: end;
+}
+
+
+
+.MUSTER_ROLL_TABLE{
+    padding: 6px 1px !important;
+    vertical-align: middle !important;
+    text-align: center;
+    font-size: 10px;
+    min-width: 31px;
+    border-color: #f1f1f1 !important;
+  }
+
+  .DAYS_BACK{
+    BACKGROUND: #E6ECF0;
+    WIDTH: 30PX;
+  }
+
+  .date_muster p{
+    margin-bottom: 0px;
+  }
+
+
+.test_collapse{
+
+    animation: fadein 0.5s;
+      -moz-animation: fadein 0.5s;
+      -webkit-animation: fadein 0.5s;
+      -o-animation: fadein 0.5s;
+  }
+
+  .heading_opeartionn {
+    background-color: #e8f1fd;
+    width: 100%;
+}
+.paddingBothSiseLeave {
+    padding: 10px 10px;
+    padding-right: 24px;
+
+}
+
+.my_new_back_bg{
+    background-color: #fff ;
+    padding: 12px 12px
+}
+// .mycalendar{
+//     overflow-x: scroll ;
+//     overflow-y: hidden;
+//   }
+
+
+//   .mycalendar::-webkit-scrollbar
+//   {
+//     width: 0px;
+//     background-color: #ffffff !important;
+//   }
+
+//   .mycalendar::-webkit-scrollbar-thumb
+//   {
+//     border-radius: 1px;
+//     background-color:#ffffff !important;
+//   }
+//   .mycalendar::-webkit-scrollbar-track
+//   {
+//     border-radius: 1px;
+//     background-color: #ffffff !important;
+//   }
+
+//   .mycalendar::-webkit-scrollbar
+//   {
+//     width: 0px;
+//     background-color: #ffffff !important;
+//   }
+
+//   .mycalendar::-webkit-scrollbar-thumb
+//   {
+//     border-radius: 1px;
+//    background-color:#ffffff !important;
+//   }
+
+  .scroll_1{
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  .scroll_1::-webkit-scrollbar{
+        height: 5px;
+        width: 3px;
+        background: #fff;
+    }
+    .scroll_1::-webkit-scrollbar-thumb:horizontal{
+        background: #a4a6a8;
+        border-radius: 10px;
+    }

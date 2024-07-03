@@ -1,0 +1,580 @@
+.rui-section-lines .rui-page-title{
+    border-bottom: none;
+}
+.backGroundColorNew{
+    background-color: #e8f1fd;
+    padding: 16px 16px;
+}
+.contentStart{
+    background-color: #fff;
+    border-radius: 5px;
+}
+html.rui-night-mode .backGroundColorNew{
+    background-color: transparent;
+}
+html.rui-night-mode .contentStart{
+    background-color: transparent;
+}
+html.rui-night-mode .nav-tabs .nav-link.active{
+    background-color: transparent !important;
+}
+.btn{
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.PageTitle{
+    padding: 10px 15px !important;
+}
+.PageTitle h1{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.textAlignEnd{
+    text-align: end;
+}
+.noDataMessage{
+    text-align: center;
+    padding: 15px;
+    color: #a4a3a3;
+    width: 100%;
+}
+.noDataMessageRoom{
+    padding: 15px;
+    color: #a4a3a3;
+    width: 100%;
+}
+.modelWidth{
+    max-width: 800px;
+}
+.labelforall{
+    margin-bottom: 0px;
+}
+.headingNew{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.new_table  th, .new_table  td{
+    padding: 10px 25px !important;
+    vertical-align: middle !important;
+}
+.borderTopNone{
+    border-top: none !important;
+}
+.displayInline{
+    display: inline-flex;
+}
+.displayInline svg{
+  width: 20px !important;
+  min-width: 20px !important;
+  height: 20px !important;
+  stroke-width: 2;
+  cursor: pointer;
+  margin-right: 12px;
+}
+.test_collapse{
+
+    animation: fadein 1.00s;
+      -moz-animation: fadein 1.00s;
+      -webkit-animation: fadein 1.00s;
+      -o-animation: fadein 1.00s;
+  }
+
+  @keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-moz-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-webkit-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-o-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity: 1;
+      }
+  }
+
+  .spinnerCss{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:40%;
+      font-size: 14px;
+  }
+
+  html.rui-night-mode .contact_sort div {
+    background-color: #292f38;
+    border-color: #3c424c;
+    color: #a0aebb!important;
+}
+
+.showPropertNewData{
+    padding: 10px 20px;
+}
+
+html.rui-night-mode .firstRoom{
+    border: 1px solid #3c424c;
+    box-shadow: none;
+}
+
+html.rui-night-mode .mycalendar::-webkit-scrollbar {
+    width: 1px;
+    background-color: #292f38 !important;
+}
+html.rui-night-mode .mycalendar::-webkit-scrollbar-thumb {
+    border-radius: 1px;
+    background-color: #292f38 !important;
+}
+html.rui-night-mode .mycalendar::-webkit-scrollbar-track
+{
+    border-radius: 1px;
+    background-color: #292f38 !important;
+} 
+
+.back_to_icon{
+    align-self: center;
+    margin-right: 2px;
+    cursor: pointer;
+}
+.back_to_icon svg{
+    width: 27px !important;
+    height: 28px !important;
+    stroke-width: 2;
+}
+
+.firstRoom{
+    box-shadow: 10px 10px 5px #f0eded;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #efeded;
+    cursor: pointer;
+}
+
+
+.resortImgForAllDetailsNew .resortImg img{
+    width: -webkit-fill-available !important;
+    border-radius: 5px;
+    height: 310px;
+}
+.resortContainerProperty{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.resortDetaits{
+    padding-right: 10px
+}
+.resortName h2{
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    margin-bottom: 6px !important;
+}
+.resortAddress p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #667085;
+}
+.resortdiscription p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #4F4F4F;
+}
+.showicon{
+    display: inline;
+}
+.showicon img{
+    margin-top: -2px;
+    width: 22px;
+    height: 16px;
+}
+.showicon span{
+    margin-left: 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.groupPeople{
+    margin-top: 16px;
+}
+.groupPeople .col-lg-3{
+    margin-bottom: 10px
+}
+
+.mycalendar{
+    overflow-x: hidden ;
+    overflow-y: scroll;
+  }
+
+  .mycalendar::-webkit-scrollbar
+  {
+    width: 1px;
+    background-color: #ffffff !important;
+  }
+
+  .mycalendar::-webkit-scrollbar-thumb
+  {
+    border-radius: 1px;
+    background-color:#ffffff !important;
+  }
+  .mycalendar::-webkit-scrollbar-track
+  {
+    border-radius: 1px;
+    background-color: #ffffff !important;
+  }
+
+
+  .showButtonNew{
+    display: inline-flex;
+    width: 100%;
+    justify-content: end;
+    padding-right: 20px;
+  }
+  .viewDeatils{
+    align-self: center;
+    margin-right: 16px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+
+  .showSubImg {
+    display: inline-flex;
+    width: 100%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+
+  }
+  .showSubImg div{
+      margin-right: 10px;
+      cursor: pointer;
+      margin-bottom: 10px;
+  }
+  .showSubImg img{
+    width: 87px !important;
+    height: 80px;
+    // margin-right: 14px;
+  }
+
+  .headingnewpro{
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .deatilsData{
+    font-size: 14px;
+    color: #858D9D;
+    font-weight: 400;
+    margin-top: -6px;
+  }
+  .uploadPropertImage button{
+      width: 100%;
+      font-weight: 500;
+      font-size: 12px;
+      justify-content: center;
+  }
+  .amnewdata{
+    display: inline-flex;
+  }
+  .amnewdata img{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  .amnewdata div{
+    font-size: 12px;
+    font-weight: 500;
+    color: #858D9D;
+  }
+
+  .roomitem img{
+      width: -webkit-fill-available;
+      border-radius: 5px;
+      height: 180px;
+  }
+  .paddingNew{
+      padding: 12px;
+  }
+  .headingNewwwRoom{
+    font-size: 14px;
+    margin-bottom: -6px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .subHeadingNew{
+    font-size: 10px;
+    font-weight: 500;
+    color: #858D9D;
+  }
+  .textAlign{
+      text-align: end;
+  }
+
+
+  .task_list2Excel {
+    // height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    right: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    top: 70px;
+
+  }
+
+  .task_list2Excel .closebtn {
+    position: absolute;
+    top: 15px;
+    right: 14px;
+    margin-left: auto;
+    cursor: pointer;
+  }
+
+
+  html.rui-night-mode  .task_list2Excel{
+    background-color: #292f38;
+    }
+    html.rui-night-mode  .task_list2Excel div .task_list_tasks, html.rui-night-mode  .p_info  {
+    border-top:1px solid #3c424c;
+    }
+    html.rui-night-mode  .task_list2Excel div .input_data1222 div .night_mode_mob1 div{
+    background-color: #292f38;
+    border-color: #3c424c;
+      color:rgb(171, 171, 171) !important;
+    }
+    html.rui-night-mode  .task_list2Excel div .input_data1222 div .night_mode_mob2 div{
+    background-color: #292f38;
+    border-color: #3c424c;
+      color:rgb(171, 171, 171) !important;
+    }
+    html.rui-night-mode  .task_list2Excel div .input_data1222 div .night_mode_mob1 div span, html.rui-night-mode  .task_list2Excel div .input_data1222 div .night_mode_mob2 div span{
+      background-color: #3c424c;
+    }
+    html.rui-night-mode  .task_list2Excel div .input_data1222 div .night_mode_mob2 div  div{
+      color:rgb(171, 171, 171) !important;
+    }
+    .roomheadingNew{
+        margin-bottom: 0px;
+    margin-top: 6px;
+    }
+    .show_dataNew{
+        padding: 10px 16px;
+    }
+
+    html.rui-night-mode .imagePloggg_property_new{
+        border: 1px solid #3c424c;
+    }
+   
+    .imagePloggg_property_new{
+        background: transparent;
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: auto;
+        border-radius: 5px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        cursor: pointer;
+        width: 100%;
+        border: 1px solid #d8d4d4;
+        color: #6f6b6b;
+    }
+    .imagePloggg{
+    background: #448DF2;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    cursor: pointer;
+    width: 100%;
+    }
+    .imagePloggg div{
+        color: #fff;
+        margin-top: 10px;
+    }
+    .imgHeight{
+        height: 143px;
+        margin-top: -12px;
+    }
+    .imgHeight img{
+        width: -webkit-fill-available;
+        height: -webkit-fill-available;
+        border-radius: 5px;
+    }
+    .imgHeightProperty{
+        height: 143px;
+        margin-top: -12px;
+    }
+    .imgHeightProperty img{
+        width: -webkit-fill-available;
+        height: -webkit-fill-available;
+        border-radius: 5px;
+    }
+
+    .deletebtn{
+        text-align: end;
+        cursor: pointer;
+    }
+    .deletebtn svg{
+        border-radius: 50%;
+        border: 1px solid red;
+        background-color: red;
+        color: #fff;
+    }
+
+    .test-room{
+      text-align: center;
+    }
+.headingRooms{
+    font-size: 14px;
+    font-weight: 500;
+    color: #858D9D;
+}
+.showaminitiesrooms{
+    display: inline-flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 2px 20px;
+}
+.roomaminitiesContainer img{
+    width: auto;
+    height: 20px;
+}
+.roomaminitiesContainer{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #cfcdcd;
+    border-radius: 5px;
+    margin-right: 22px;
+    padding: 6px 6px;
+    text-align: center;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 7px 7px 5px #f9f9f9;
+}
+
+.notselected{
+    border: 1px solid #cfcdcd;
+    
+}
+html.rui-night-mode .notselected{
+    border: 1px solid #3c424c;
+}
+html.rui-night-mode .roomaminitiesContainer{
+    box-shadow : none
+}
+.selected{
+    border: 2px solid #629FF4;
+}
+.roomaminitiesContainer p{
+    margin-top: 6px;
+    margin-bottom: -3px;
+    text-transform: capitalize;
+    color: #989FAD;
+    line-height: 18px;
+    font-size: 12px;
+}
+
+
+.is_not_valid div{
+    background-color: #fef9fa;
+    border-color: #fac6cc;
+  }
+
+
+  .form-control.is-invalid {
+    background-color: #fef9fa !important;
+    border-color: #fac6cc;
+}
+
+
+
+.falseMessageNew{
+    color: red;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.start_mark_new{
+    color: red;
+}
+
+.is_not_valid div{
+    background-color: #fef9fa;
+    border-color: #fac6cc;
+  }
+
+
+  .form-control.is-invalid {
+    background-color: #fef9fa !important;
+    border-color: #fac6cc;
+}
+.showImageModel{
+    max-width: 800px;
+}
+
+.inputData input{
+width: 80px;
+margin-top: 6px;
+}
+
+
+.couosel_icon .carousel-control-next svg{
+    width: 30px;
+    height: 40px;
+    max-width: 30px;
+    stroke-width: 2;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #000;
+}
+.couosel_icon .carousel-control-prev svg{
+    width: 30px;
+    height: 40px;
+    max-width: 30px;
+    stroke-width: 2;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #000;
+}
+.couosel_icon .carousel-indicators{
+    display: none;
+}
+.couosel_icon img{
+    height: 457px;
+}
+
+.manager_select_new .form-control{
+    background-color: #fef9fa !important;
+    border-color: #fac6cc;
+  }
+  

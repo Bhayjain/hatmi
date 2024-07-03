@@ -1,0 +1,220 @@
+.daily_heading{
+    padding: 15px 15px !important;
+}
+.lz_all{
+  margin-top: -19px;
+    margin-bottom: 7px;
+    font-size: 11px;
+}
+.border_bottom{
+  border-bottom: 1px solid #e6ecf0;
+}
+.timing_new_new{
+  padding: 18px 30px;
+}
+.close_tagsss{
+    height: 19px;
+    cursor: pointer;
+    margin-left: 1px;
+    margin-top: 0px;
+}
+.current_bag{
+  font-size: 10px;
+  padding-left: 10px;
+    padding-right: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: unset !important;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.close_tagsss svg{
+  color: #fff;
+    stroke-width: 2px;
+    width: 18px !important;
+    height: 18px !important;
+}
+.slot_new{
+  padding: 15px 15px !important;
+}
+.slot_new_new{
+  padding: 15px 30px !important;
+}
+.top_spacee{
+  margin-bottom: 20px;
+}
+.text_cen{
+text-align: center;
+}
+.daily_heading h1{
+   margin-top: 0px !important;
+   margin-bottom: 0px !important;
+}
+.disPlay{
+    display: grid;
+}
+// .timing_new{
+//     padding: 18px 30px;
+//     height: 180px;
+//     border-bottom: 1px solid #e6ecf0;
+// }
+.btn_save{
+  align-self: flex-end;
+}
+.btn_save_dreaaa{
+  align-self: center;
+}
+.btn_save button{
+    width: fit-content;
+    text-transform: capitalize;
+    height: 32px;
+    text-transform: capitalize;
+    padding-top: 6px;
+    margin-top: -35px;
+}
+.btn_save_dreaaa button{
+    width: fit-content;
+    text-transform: capitalize;
+    height: 32px;
+    text-transform: capitalize;
+    padding-top: 6px;
+    margin-top: 6px;
+}
+.start_mark{
+    color: red;
+    margin-left: 3px;
+  }
+
+  html.rui-night-mode .timing_new {
+    border-bottom-color: #3c424c;
+}
+html.rui-night-mode .rui-section-lines .rui-page-title div div div .contact_sort div{
+    background-color: #292f38;
+    border-color: #3c424c;
+  }
+  html.rui-night-mode  .contact_sort div div{
+    color: #a9b1bb !important;
+  }
+  html.rui-night-mode .contact_sort div div span{
+    background: #3c424c !important;
+  }
+  html.rui-night-mode .contact_sort div {
+    background-color: #292f38;
+    border-color: #3c424c;
+    color: #a0aebb !important
+  }
+  html.rui-night-mode .mycalendar::-webkit-scrollbar {
+    width: 1px;
+    background-color: #454545 !important;
+  }
+  html.rui-night-mode body .mycalendar::-webkit-scrollbar-thumb {
+    border-radius: 1px;
+    background-color: #454545 !important;
+  }
+  html.rui-night-mode body .mycalendar::-webkit-scrollbar-track {
+    border-radius: 1px;
+    background-color: #454545 !important;
+  }
+
+  html.rui-night-mode .border_bottom {
+    border-bottom: 1px solid #3c424c;
+}
+
+  .mycalendar{
+    overflow-x: hidden ;
+    overflow-y: scroll;
+  }
+
+  .mycalendar::-webkit-scrollbar
+  {
+    width: 1px;
+    background-color: #ffffff !important;
+  }
+
+  .mycalendar::-webkit-scrollbar-thumb
+  {
+    border-radius: 1px;
+    background-color:#ffffff !important;
+  }
+  .mycalendar::-webkit-scrollbar-track
+  {
+    border-radius: 1px;
+    background-color: #ffffff !important;
+  }
+
+  .mycalendar::-webkit-scrollbar
+  {
+    width: 1px;
+    background-color: #ffffff !important;
+  }
+
+  .mycalendar::-webkit-scrollbar-thumb
+  {
+    border-radius: 1px;
+   background-color:#ffffff !important;
+  }
+  .test_collapse{
+
+    animation: fadein 0.5s;
+      -moz-animation: fadein 0.5s;
+      -webkit-animation: fadein 0.5s;
+      -o-animation: fadein 0.5s;
+  }
+  @keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-moz-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-webkit-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-o-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity: 1;
+      }
+  }
+
+  .height_sales {
+    border-right: 1px solid #e6ecf0;
+  }
+  html.rui-night-mode body .height_sales{
+    border-right: 1px solid #626973;
+  }
+
+  .employee_spinner_1{
+    justify-content: center;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    margin-left:48%;
+   font-size: 14px;
+   z-index: 1
+  }
+  .spinner_css_12345666{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:39%;
+      font-size: 14px;
+  }

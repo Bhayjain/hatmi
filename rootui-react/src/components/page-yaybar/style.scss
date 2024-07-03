@@ -1,0 +1,138 @@
+@import "../../../../common-assets/css/variables";
+@import "../../../../common-assets/css/yaybar";
+@import "../../../../common-assets/css/rootui-parts/plugin-yay";
+
+.yay-item-active{
+    background-color: #1D525B;
+    border-radius: 5px;
+}
+.yay-icon img{
+    width: 26px;
+    height: 20px;
+}
+.rui-navbar-brand{
+    justify-content: space-between;
+}
+.rui-navbar-brand a{
+    width: 100%;
+    text-align: center;
+}
+.yaybar {
+    margin-top: 70px;
+}
+.yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a {
+    color: #fff !important;
+}
+
+html.rui-night-mode .yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a {
+    color: #fff !important;
+}
+
+
+.yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a > span:not([class]) {
+    color: #fff !important;
+}
+.yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a > .yay-icon {
+    color:#fff !important;
+}
+
+html.rui-night-mode .yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a {
+    color: #fff !important;
+}
+html.rui-night-mode .yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a > span:not([class]) {
+    color: #fff !important;
+}
+html.rui-night-mode .yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a > .yay-icon {
+    color:#fff !important;
+}
+// ss
+html.rui-night-mode .yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a {
+    color:  #fff !important;
+}
+html.rui-night-mode .yaybar.rui-yaybar .yaybar-wrap ul > li.yay-item-active > a::before {
+    background-color: #fff !important;
+}
+.yay-item-active a {
+    color: #fff !important;
+}
+html.rui-night-mode .yay-item-active a {
+    color:  #fff !important;
+}
+
+
+.valid_contact .css-18dl164-control{
+    border: none !important;
+    z-index: 9999 !important;
+
+
+
+
+}
+.border_valid .div{
+    border-color: #fff !important;
+}
+.valid_contact{
+    z-index: 9999 !important;
+
+}
+.valid_contact .css-1okebmr-indicatorSeparator{
+display: none;
+
+}
+
+.valid_contact .css-lg1fe2-control{
+    border: none !important;
+    z-index: 9999 !important;
+
+    border-color: #fff !important;
+
+
+
+}
+.valid_contact .css-1hb7zxy-IndicatorsContainer{
+    cursor: pointer;
+
+
+}
+.villa_heading_name{
+    padding: 0px 13px;
+    margin-top: 17px;
+    margin-bottom: -7px;
+
+
+}
+.valid_contact  .css-1uccc91-singleValue{
+    font-size: 22px;
+    color: #DFAE64;
+    cursor: pointer;
+    font-weight: 600;
+}
+html.rui-night-mode .valid_contact  .css-1uccc91-singleValue{
+    color: #DFAE64 !important;
+}
+html.rui-night-mode .contact_sort div {
+    background-color: #292f38;
+    border-color: #3c424c;
+}
+.valid_contact .css-6q0nyr-Svg{
+    color: #6f6f6f;
+}
+
+.valid_contact .css-g1d714-ValueContainer{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.border_valid  .css-14xgua8-control{
+    border-color: #fff !important;
+}
+.navBarBageNew{
+    border-radius: 3px;
+    padding-bottom: 2px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+html.rui-night-mode .border_valid .css-14xgua8-control{
+    border-color: transparent !important;
+}

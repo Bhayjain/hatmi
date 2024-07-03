@@ -1,0 +1,323 @@
+.rui-section-lines .rui-page-title{
+    border-bottom: none;
+}
+.backGroundColorNew{
+    background-color: #e8f1fd;
+    padding: 16px 16px;
+
+}
+.contentStart{
+    background-color: #fff;
+    border-radius: 5px;
+}
+html.rui-night-mode .backGroundColorNew{
+    background-color: transparent;
+    padding: 0px 0px !important
+}
+html.rui-night-mode .room_bodernew{
+    border-bottom: 1px solid #3c424c !important;
+}
+html.rui-night-mode .contentStart{
+    background-color: transparent;
+}
+html.rui-night-mode .nav-tabs .nav-link.active{
+    background-color: transparent !important;
+}
+
+html.rui-night-mode .contact_sort div {
+    background-color: #292f38;
+    border-color: #3c424c;
+    color: #a0aebb!important;
+}
+.btn{
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.PageTitle{
+    padding: 10px 15px !important;
+}
+.PageTitle h1{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.textAlignEnd{
+    text-align: end;
+}
+.roomsTab{
+    padding: 16px !important;
+    border-bottom: none !important;
+}
+.noDataMessage{
+    text-align: center;
+    padding: 15px;
+    color: #a4a3a3;
+    width: 100%;
+}
+.modelWidth{
+    max-width: 800px;
+}
+.labelforall{
+    margin-bottom: 0px;
+}
+.headingNew{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.table th, .table td{
+    padding: 10px 25px !important;
+    vertical-align: middle !important;
+}
+.borderTopNone{
+    border-top: none !important;
+}
+.displayInline{
+    display: inline-flex;
+}
+.displayInline svg{
+  width: 20px !important;
+  min-width: 20px !important;
+  height: 20px !important;
+  stroke-width: 2;
+  cursor: pointer;
+  margin-right: 12px;
+}
+.test_collapse{
+
+    animation: fadein 1.00s;
+      -moz-animation: fadein 1.00s;
+      -webkit-animation: fadein 1.00s;
+      -o-animation: fadein 1.00s;
+  }
+
+  @keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-moz-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-webkit-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-o-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity: 1;
+      }
+  }
+
+  .spinnerCss{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:40%;
+      font-size: 14px;
+  }
+.foodContain{
+    margin-top: 22px;
+}
+.headingFood{
+    margin-bottom: 4px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.foodMenu{
+    display: inline-flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.firdMenu{
+    width: 16%;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    align-self: center;
+    padding-top: 18px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+.firdMenu img{
+    width: 73px;
+    height: 37px;
+}
+.firdMenu p{
+    margin-bottom: 0px;
+    margin-top: 6px;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.label_upload{
+  width: 100%;
+height: 36px;
+border-radius: 2px;
+border: 1px solid #c7c7c7;
+display: -webkit-inline-flex;
+display: -ms-inline-flexbox;
+display: inline-flex;
+background: #fbfcfc;
+
+}
+
+.the-file{
+  width: 70%;
+height: 36px;
+padding-left: 10px;
+padding-top: 5px;
+overflow: hidden;
+}
+
+
+
+.companyLogoNew{
+  width: 100%;
+height: 36px;
+float: right;
+background: rgb(0,123,255);
+color: azure;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+padding-top: 7px;
+cursor: pointer;
+/* margin: auto; */
+text-align: center;
+}
+
+.margin-lable{
+  margin-bottom: 0px
+}
+
+.showIconNewNew{
+    height: 150px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    margin-bottom: 14px;
+}
+.showIconNewNew img{
+    height: 100px;
+    width: auto;
+}
+.paddingBoth{
+    padding: 4px 30px;
+}
+.containerIcon{
+    border: 1px solid #b2b2b2;
+    border-radius: 2px;
+    padding: 10px 8px
+}
+.name_aminities{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+.name_aminities_outdoor{
+    text-transform: capitalize;
+    font-size: 16px;
+}
+.img_icon{
+    height: 90px;
+    width: 100%;
+    display: inline-flex;
+}
+
+.showIconDelete{
+    text-align: center;
+    margin-top: 5px;
+    width: 100%;
+}
+.showIconDelete svg{
+    width: 50%;
+    height: 20px;
+    cursor: pointer;
+}
+
+textarea.form-control{
+    height: 80px;
+}
+.showImg{
+    width: 50%;
+}
+.discriptionNew{
+    width: 50%;
+}
+
+
+.room_bodernew{
+    border-bottom: 1px solid #e6ecf0 !important;
+    margin-bottom: 20px;
+}
+
+
+.mycalendar{
+    overflow-x: hidden ;
+    overflow-y: scroll;
+  }
+
+  .mycalendar::-webkit-scrollbar
+  {
+    width: 1px;
+    background-color: #ffffff !important;
+  }
+
+  .mycalendar::-webkit-scrollbar-thumb
+  {
+    border-radius: 1px;
+    background-color:#ffffff !important;
+  }
+  .mycalendar::-webkit-scrollbar-track
+  {
+    border-radius: 1px;
+    background-color: #ffffff !important;
+  }
+
+  html.rui-night-mode .mycalendar::-webkit-scrollbar {
+    width: 1px;
+    background-color: #292f38 !important;
+}
+html.rui-night-mode .mycalendar::-webkit-scrollbar-thumb {
+    border-radius: 1px;
+    background-color: #292f38 !important;
+}
+html.rui-night-mode .mycalendar::-webkit-scrollbar-track
+{
+    border-radius: 1px;
+    background-color: #292f38 !important;
+} 
+
+  .other_tax{
+    margin-top: 24px !important;
+    margin-bottom: 0px !important;
+  }
+  .percent{
+    align-self: center;
+      margin-left: 10px;
+  }
+  .display_inline{
+    display: inline-flex;
+  }
+  .show_grid .col-lg-4{
+    display: grid;
+  }
+.gst_mode{
+    max-width: 700px;
+}

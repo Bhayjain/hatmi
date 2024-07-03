@@ -1,0 +1,134 @@
+.rui-section-lines .rui-page-title{
+    border-bottom: none;
+}
+.backGroundColorNew{
+    background-color: #e8f1fd;
+    padding: 16px 16px;
+}
+.contentStart{
+    background-color: #fff;
+    border-radius: 5px;
+}
+html.rui-night-mode .backGroundColorNew{
+    background-color: transparent;
+}
+html.rui-night-mode .contentStart{
+    background-color: transparent;
+}
+html.rui-night-mode .nav-tabs .nav-link.active{
+    background-color: transparent !important;
+}
+.btn{
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.PageTitle{
+    padding: 10px 15px !important;
+}
+.PageTitle h1{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.textAlignEnd{
+    text-align: end;
+}
+.roomsTab{
+    padding: 16px !important;
+    border-bottom: none !important;
+}
+.noDataMessage{
+    text-align: center;
+    padding: 15px;
+    color: #a4a3a3;
+    width: 100%;
+}
+.modelWidth{
+    max-width: 800px;
+}
+.labelforall{
+    margin-bottom: 0px;
+}
+.headingNew{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.table th, .table td{
+    padding: 10px 25px !important;
+    vertical-align: middle !important;
+}
+.borderTopNone{
+    border-top: none !important;
+}
+.displayInline{
+    display: inline-flex;
+}
+.displayInline svg{
+  width: 20px !important;
+  min-width: 20px !important;
+  height: 20px !important;
+  stroke-width: 2;
+  cursor: pointer;
+  margin-right: 12px;
+}
+.test_collapse{
+
+    animation: fadein 1.00s;
+      -moz-animation: fadein 1.00s;
+      -webkit-animation: fadein 1.00s;
+      -o-animation: fadein 1.00s;
+  }
+ 
+  @keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-moz-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-webkit-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-o-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity: 1;
+      }
+  }
+
+  .spinnerCss{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:40%;
+      font-size: 14px;
+  }
+  .paid_data{
+      color: #10A760;
+      text-decoration: underline;
+      cursor: pointer;
+  }
+  .pending_data{
+      color: #448DF2;
+      text-decoration: underline;
+      cursor: pointer;
+  }
+
+  

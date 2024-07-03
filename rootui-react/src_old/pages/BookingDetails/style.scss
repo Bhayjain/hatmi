@@ -1,0 +1,220 @@
+.rui-section-lines .rui-page-title{
+    border-bottom: none;
+}
+.backGroundColorNew{
+    background-color: #e8f1fd;
+    padding: 16px 16px;
+}
+html.rui-night-mode .backGroundColorNew {
+    background-color: transparent;
+}
+html.rui-night-mode .backGroundColorNew{
+    background-color: transparent;
+}
+html.rui-night-mode .contentStart{
+    background-color: transparent;
+}
+html.rui-night-mode .nav-tabs .nav-link.active{
+    background-color: transparent !important;
+}
+.contentStart{
+    background-color: #fff;
+    border-radius: 5px;
+}
+.btn{
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.PageTitle{
+    padding: 10px 15px !important;
+}
+.PageTitle h1{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.textAlignEnd{
+    text-align: end;
+}
+.roomsTab{
+    padding: 16px !important;
+    border-bottom: none !important;
+}
+.noDataMessage{
+    text-align: center;
+    padding: 15px;
+    color: #a4a3a3;
+    width: 100%;
+}
+.modelWidth{
+    max-width: 800px;
+}
+.labelforall{
+    margin-bottom: 0px;
+}
+.headingNew{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.table th, .table td{
+    padding: 10px 25px !important;
+    vertical-align: middle !important;
+}
+.borderTopNone{
+    border-top: none !important;
+}
+.displayInline{
+    display: inline-flex;
+}
+.displayInline svg{
+  width: 20px !important;
+  min-width: 20px !important;
+  height: 20px !important;
+  stroke-width: 2;
+  cursor: pointer;
+  margin-right: 12px;
+}
+.test_collapse{
+
+    animation: fadein 1.00s;
+      -moz-animation: fadein 1.00s;
+      -webkit-animation: fadein 1.00s;
+      -o-animation: fadein 1.00s;
+  }
+ 
+  @keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-moz-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-webkit-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  @-o-keyframes fadein {
+      from {
+          opacity:0;
+      }
+      to {
+          opacity: 1;
+      }
+  }
+
+  .spinnerCss{
+    justify-content: center;
+      position: absolute;
+      width: 50px;
+      height:50px;
+      margin-left:40%;
+      font-size: 14px;
+  }
+  .paid_data{
+      color: #10A760;
+      text-decoration: underline;
+      cursor: pointer;
+  }
+  .pending_data{
+      color: #448DF2;
+      text-decoration: underline;
+      cursor: pointer;
+  }
+  .bookingId{
+    color: #448DF2; 
+  }
+  .newRow{
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .small_heading{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+    align-self: center;
+  }
+  .guestDetails{
+    color: #858D9D;
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  html.rui-night-mode .bookingContent {
+    border: 1px solid #535454;
+  }
+  html.rui-night-mode .balanceTop {
+    border-top: 1px solid #535454;
+  }
+  html.rui-night-mode .userNameBooking {
+   color: #a9b1bb;
+  }
+  html.rui-night-mode .userDeails {
+   color: #a9b1bb;
+  }
+  .bookingContent{
+    border: 1px solid #D0D3D9;
+    border-radius: 2px;
+    padding: 10px 16px;
+    height: 192px;
+  }
+  .editBtn{
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .userNameBooking{
+      font-size: 18px;
+      font-weight: 500;
+      color: #4F4F4F;
+      margin-bottom: 5px !important;
+      margin-top: 4px;
+  }
+  .userDeails{
+      font-size: 14px;
+      font-weight: 400;
+      color: #4F4F4F;
+      margin-bottom: 5px !important;
+  }
+  .my_table_booking{
+    padding: 10px 0px !important;
+    border: transparent !important;
+  }
+  .showTableAmount{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .bookingPerson{
+    margin-top: 10px;
+  }
+  .balanceTop{
+    border-top: 1px solid #989FAD;
+    padding-top: 7px;
+  }
+  .paddingBottom7{
+    padding-bottom: 7px;
+  }
+  .headingNewText{
+    font-size: 16px;
+    font-weight: 500;
+    color: #858D9D;
+    padding: 2px 25px;
+  }
+  .AccommodationHedaing{
+    
+    margin-top: 20px;
+  }
